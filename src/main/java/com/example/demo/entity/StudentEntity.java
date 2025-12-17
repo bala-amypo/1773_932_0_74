@@ -12,10 +12,10 @@ public class StudenEntity{
     private float cgpa;
 
     public StudentEntity(Long id,String name,String email,float cgpa){
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.cgpa = cgpa;
+        this.id =id;
+        this.name =name;
+        this.email =email;
+        this.cgpa =cgpa;
     }
     public StudentEntity(){
 
