@@ -18,7 +18,7 @@ public class StudenEntity{
         this.cgpa = cgpa;
     }
     public StudentEntity(){
-        
+
     }
 
     public void student(String name){
