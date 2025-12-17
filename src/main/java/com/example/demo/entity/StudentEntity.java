@@ -23,8 +23,9 @@ public class StudenEntity{
     public StudentEntity(){
 
     }
+    public 
 
-    public void student(String name){
+    public void setName(String name){
         this.name=name;
     }
     public String getName(){
