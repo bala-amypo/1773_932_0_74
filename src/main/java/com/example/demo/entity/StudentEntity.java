@@ -11,5 +11,5 @@ public class StudenEntity{
     private String email;
     private float cgpa;
 
-
+    
 }
